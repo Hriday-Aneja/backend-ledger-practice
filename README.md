@@ -28,3 +28,11 @@ A backend-based ledger system built using Node.js and Express that allows users 
 ---
 
 ## 📂 Project Structure
+
+backend-ledger/
+- models/
+- routes/
+- controllers/
+- middleware/
+- config/
+- server.js
